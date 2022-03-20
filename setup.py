@@ -1,7 +1,6 @@
 #!/usr/bin/env python  
 from __future__ import print_function
 from setuptools import setup, find_packages
-import sys
 
 setup(
     name="xyz-etl",
